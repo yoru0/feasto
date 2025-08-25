@@ -2,8 +2,6 @@
 
 A modern **food/e-commerce** website design built in **Figma**. Includes core pages (Home, Product, Cart, Auth, About, Testimonials) plus a simple animated intro. Great as a learning reference or a starter for your own project.
 
----
-
 ## What’s inside
 
 - **Figma source:** `food_website.fig`
@@ -15,8 +13,6 @@ A modern **food/e-commerce** website design built in **Figma**. Includes core pa
   - About Us Page
   - Testimonial Page
   - Shopping Cart Page
-
----
 
 ## Preview
 ![image](https://github.com/user-attachments/assets/e3f86d14-0c44-4666-a55b-21cb9ca8b8c1)
