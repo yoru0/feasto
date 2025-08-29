@@ -1,4 +1,4 @@
-# Feasto — Food Website UI (Figma)
+# Feast — Food Website UI (Figma)
 
 A modern **food/e-commerce** website design built in **Figma**. Includes core pages (Home, Product, Cart, Auth, About, Testimonials) plus a simple animated intro. Great as a learning reference or a starter for your own project.
 
